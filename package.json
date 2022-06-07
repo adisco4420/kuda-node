@@ -1,6 +1,6 @@
 {
-  "name": "kuda-node",
-  "version": "1.0.3",
+  "name": "swift-kuda-node",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kudabank/openapi-node.git"
+    "url": "hhttps://github.com/adisco4420/swift-kuda-node.git"
   },
   "keywords": [],
-  "author": "Kuda Bank <tech@kudabank.com> (https://kudabank.com)",
+  "author": "Sodiq Alabi <adisco4420@gmail.com> (https://github.com/adisco4420)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kudabank/openapi-node/issues"
+    "url": "https://github.com/adisco4420/swift-kuda-node/issues"
   },
-  "homepage": "https://github.com/kudabank/openapi-node#readme",
+  "homepage": "https://github.com/adisco4420/swift-kuda-node#readme",
   "devDependencies": {
     "eslint": "^6.7.2",
     "eslint-config-standard": "^14.1.0",
@@ -27,7 +27,7 @@
     "eslint-plugin-standard": "^4.0.1"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.27.2",
     "node-jsencrypt": "^1.0.0",
     "rsa-xml": "^0.1.5",
     "shortid": "^2.2.15"
